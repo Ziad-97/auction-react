@@ -1,0 +1,87 @@
+.sidebar {
+    width: 200px;
+    height: 600px;
+    background-color: #B09337;
+    float: left;
+    border-radius: 25px;
+
+}
+
+#account-det{
+text-align: center;
+
+}
+
+#funds{
+padding-bottom: 60px;
+}
+
+#owned-items{
+
+    padding-bottom: 50px;
+}
+
+#active-buttons{
+
+    padding-bottom: 90px;
+}
+
+#butt-side{
+
+    border-radius: 25px;
+}
+
+.container {
+    width: 404px;
+    height: 390px;
+    background-color: #540E26;
+    border: 4px solid #B09337;
+    display: flex;
+    flex-direction: row;
+    color: #FFFFFF;
+
+}
+
+.button-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 170px;
+}
+.container-det {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-and-sidebar {
+    display: flex;
+    height: calc(100vh - 250px);
+}
+
+.content {
+    flex: 1 1;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+}
+
+
+.sidebar {
+    flex: 0 0 200px;
+    background-color: wheat;
+    color: #FFFFFF;
+
+}
+
+
+
+
+
+
+
+
+
+

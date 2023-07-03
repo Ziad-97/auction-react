@@ -1,0 +1,125 @@
+
+
+.space{
+    padding: 0px 0px 40px 0px;
+}
+
+.welcome-back-sect {
+    border-radius: 35px;
+    border: 6px solid #B09337;
+    background-color: #5B0C0C;
+    color: white;
+
+}
+
+.create-account-sect{
+    border-radius: 35px;
+
+    border: 6px solid #B09337;
+    background-color: #5B0C0C;
+    color: white;
+    margin-right: 120px;
+    justify-content: center;
+
+}
+
+.welcome-back  {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+
+.welcome-back-sect .welcome-back >div{
+    padding: 50px 0px 20px 0px;
+    width: 700px;
+}
+
+.welcome-back .email-field {
+    border: #FFFFFF;
+    font-size: 30px;
+    width: 700px;
+
+
+}
+
+.welcome-back .password-field {
+    border: #FFFFFF;
+   color: #000000;
+    width: 700px;
+
+    font-size: 30px;
+}
+
+.email-field::placeholder,
+.password-field::placeholder {
+    color: #000000; /* Replace 'red' with your desired color */
+}
+
+
+
+.butt {
+    width:700px;
+    height:70px;
+    background-color: #B09337;
+    border-radius: 100px;
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.login-register-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.create-account{
+    font-size: 40px;
+    font-weight: bold;
+    width: 700px;
+
+
+}
+
+.create-account .username {
+    border: #FFFFFF;
+    color: #000000;
+    font-size: 30px;
+    width: 700px;
+
+}
+
+.create-account .email-field {
+    border: #FFFFFF;
+    color: #000000;
+    font-size: 30px;
+    width: 700px;
+
+}
+
+.create-account .password-field {
+    border: #FFFFFF;
+    color: #000000;
+    font-size: 30px;
+    width: 700px;
+
+}
+
+
+
+.create-account-sect .create-account >div {
+    padding: 28px 0px 10px 0px;
+}
+
+
+
+
+
+
+
+
+

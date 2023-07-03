@@ -1,0 +1,25 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 850px 0px 850px ;
+    list-style-type: none;
+
+}
+
+.title {
+    display: flex;
+
+
+}
+
+.navbar-link {
+    display: flex;
+    text-decoration: none;
+    padding: 0px 50px 0px 50px;
+    list-style-type: none;
+}
+
+
+
+
+
